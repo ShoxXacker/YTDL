@@ -1,6 +1,6 @@
-<html><h2>YouTube Downloader Bot
-Prerequisite
-ffmpeg
+<html><h2>
+YouTube Downloader Bot
+Prerequisite ffmpeg
 install dependencies
 pip3 install -r requirements.txt
 Setup Bot</h2>
@@ -8,5 +8,5 @@ Setup Bot</h2>
 - install dependencies
 - python3 -m bot
 
-Deploy heroku = https://heroku.com/deploy?template=https://github.com/ShoxXacker/YTDL/network/members
+<banner>Deploy heroku</banner> = https://heroku.com/deploy?template=https://github.com/ShoxXacker/YTDL/network/members
 </html>
